@@ -1,0 +1,28 @@
+﻿生成启动时间为 2017/2/5 10:50:31。
+     1>项目“C:\迅雷下载\ceshi\live555\groupsock\groupsock.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\UsageEnvironment\include /I..\liveMedia\include /I..\BasicUsageEnvironment\include /I.\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GroupEId.cpp Groupsock.cpp GroupsockHelper.cpp IOHandlers.cpp NetAddress.cpp NetInterface.cpp
+         NetInterface.cpp
+         NetAddress.cpp
+         IOHandlers.cpp
+         GroupsockHelper.cpp
+     1>c:\迅雷下载\ceshi\live555\groupsock\groupsockhelper.cpp(785): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+         Groupsock.cpp
+         GroupEId.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\UsageEnvironment\include /I..\liveMedia\include /I..\BasicUsageEnvironment\include /I.\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt inet.c
+         inet.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\迅雷下载\ceshi\live555\Debug\groupsock.lib" /NOLOGO Debug\GroupEId.obj
+         Debug\Groupsock.obj
+         Debug\GroupsockHelper.obj
+         Debug\inet.obj
+         Debug\IOHandlers.obj
+         Debug\NetAddress.obj
+         Debug\NetInterface.obj
+         groupsock.vcxproj -> C:\迅雷下载\ceshi\live555\Debug\groupsock.lib
+     1>已完成生成项目“C:\迅雷下载\ceshi\live555\groupsock\groupsock.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.83
